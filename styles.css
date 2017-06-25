@@ -1,0 +1,24 @@
+.header .row .col {
+  height: 200px;
+  color: #eee;
+}
+
+.header .row .col p {
+
+}
+
+.round {
+  border-radius: 50%;
+}
+
+.img-fit{
+  display: inline-block;
+
+height: auto;
+
+max-width: 100%;
+}
+
+.dragonballz{
+  height: 100px;
+}
